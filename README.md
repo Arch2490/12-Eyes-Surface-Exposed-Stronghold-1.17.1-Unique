@@ -3,7 +3,7 @@ List of 8 seeds and their sister seeds containing a Surface Exposed Stronghold w
 
 #
 # INFO
-- Every single 1.17.1 12 eye seed in here is found using Microboinc developed by Matt. Seedlist public in the Minecraft@Home Discord Server or download [here](https://cdn.discordapp.com/attachments/862042593826832424/1039041552372220052/12eye1171Unique.txt?ex=68e0a9da&is=68df585a&hm=73ddd2ed1cf3bf0375131a08abd7b71e5579199215f77d4c23e0f278fbe67ce4&)
+- Every single 1.17.1 12 eye seed in here is found using Microboinc developed by Matt. Seedlist public in the Minecraft@Home Discord Server or download [here](https://cdn.discordapp.com/attachments/862042593826832424/1039041552372220052/12eye1171Unique.txt?ex=68e0a9da&is=68df585a&hm=73ddd2ed1cf3bf0375131a08abd7b71e5579199215f77d4c23e0f278fbe67ce4&) (14205321 seeds including sisters)
 - Every single seed here is unique to 1.17.1 only. On versions such as 1.16.1, The 12 eye would not be there and stronghold would (i think) generate lower.
 - In 1.17, some Strongholds would generate higher then their 1.16.1 counterparts. But they would now generate with a bunker covering most of the strongholds. Some Stone Bricks would still be exposed though.
 - This is only including seeds with a visible bunker on the surface. Some seeds will not have any Stone Bricks visible.
