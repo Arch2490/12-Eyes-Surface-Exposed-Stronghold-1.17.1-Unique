@@ -1,5 +1,5 @@
 # 12-Eyes-Surface-Exposed-Stronghold-1.17.1-Unique
-List of 8 seeds and their sister seeds containing a Surface Exposed Stronghold with a 12 eye
+List of 8 seeds and their sister seeds containing a Surface Exposed Stronghold with a 12 eye (I dont think i checked all the seeds for Surface exposed strongholds but its a good chunk of it)
 
 #
 # INFO
